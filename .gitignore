@@ -1,0 +1,10 @@
+bin
+obj
+.tup
+.vscode
+
+inc/tokens.h
+src/parser.cc
+src/scanner.cc
+
+parser.log
